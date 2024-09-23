@@ -1,4 +1,6 @@
 .jumbotron {
-    background-image: url(../img/tom-gainor-kDDXnN9ycaU-unsplash.jpg);
-    height: auto;
+    background-image: url("../img/christoph-nolte-k4ykrW0HJJA-unsplash.jpg");
+    height: 800px;
+    background-position: top;
 }
+
